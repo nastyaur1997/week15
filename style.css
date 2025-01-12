@@ -1,0 +1,23 @@
+* {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.container {
+  width: 90vw;
+  margin: 0 auto;
+  height: 50vh;
+  background-color: ghostwhite;
+  border-radius: 8px;
+}
+.container h1 {
+  width: 80vw;
+  margin: 10px;
+  font-size: 24px;
+}
+.cities {
+  font-size: 18px;
+  margin: 6px;
+}
+.temperature {
+  margin: 20px 6px;
+  font-weight: 800;
+}
